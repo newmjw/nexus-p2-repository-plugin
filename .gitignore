@@ -1,7 +1,4 @@
 .idea
 *.iml
 *.ipr
-.classpath
-.project
-.settings
 target
